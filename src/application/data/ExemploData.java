@@ -30,8 +30,6 @@ public class ExemploData {
 		System.out.println(sdf3.format(y1));
 		System.out.println(sdf3.format(y2));
 		
-		
-	
 		//exemplo Calendar
 		
 		SimpleDateFormat sdf4 = new SimpleDateFormat("dd/MM/yyyy");
